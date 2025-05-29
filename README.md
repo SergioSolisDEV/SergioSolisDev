@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">A passionate developer from Spain!</h3>
+<h3 align="center">A self-taught developer from Spain!</h3>
 
 - 🌱 I’m currently learning **React!**
 
